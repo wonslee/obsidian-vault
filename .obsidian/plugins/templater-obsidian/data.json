@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "WWH template.md"
+      "template": "templates/WWH template.md"
     }
   ],
   "syntax_highlighting": true,

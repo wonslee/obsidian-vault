@@ -235,8 +235,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a464f791ce6b7afc",
+  "active": "49f08445c8d46c98",
   "lastOpenFiles": [
+    "Untitled.md",
+    "src/design-pattern/프록시 패턴.md",
     "src/cs/paradigm/oop/합성.md",
     "src/cs/paradigm/하향식 접근법.md",
     "src/cs/프레임워크.md",
@@ -264,8 +266,6 @@
     "src/problem-solving/수위키 - 강의 데이터 적재.md",
     "src/programming-language/모듈.md",
     "src/problem-solving",
-    "src/cs/software-philosophy/단순성.md",
-    "src/구현.md",
     "templates",
     "src/design-pattern",
     "src/devops",
