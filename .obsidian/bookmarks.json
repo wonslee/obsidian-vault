@@ -7,23 +7,23 @@
         {
           "type": "file",
           "ctime": 1706514623644,
-          "path": "인성 질문.canvas"
+          "path": "canvas/인성 질문.canvas"
         },
         {
           "type": "file",
           "ctime": 1707048906601,
-          "path": "포트폴리오.canvas"
+          "path": "canvas/포트폴리오.canvas"
         },
         {
           "type": "file",
           "ctime": 1705673711096,
-          "path": "OOP.canvas",
+          "path": "canvas/OOP.canvas",
           "title": "OOP.canvas"
         },
         {
           "type": "file",
           "ctime": 1707049216074,
-          "path": "Java.canvas"
+          "path": "canvas/Java.canvas"
         },
         {
           "type": "file",
@@ -33,29 +33,29 @@
         {
           "type": "file",
           "ctime": 1706242170781,
-          "path": "Spring 마인드맵.canvas",
+          "path": "canvas/Spring 마인드맵.canvas",
           "title": "Spring.canvas"
         },
         {
           "type": "file",
           "ctime": 1706242018169,
-          "path": "디자인 패턴 마인드맵.canvas",
+          "path": "canvas/디자인 패턴 마인드맵.canvas",
           "title": "디자인 패턴.canvas"
         },
         {
           "type": "file",
           "ctime": 1707480584210,
-          "path": "인증 인가.canvas"
+          "path": "canvas/인증 인가.canvas"
         },
         {
           "type": "file",
           "ctime": 1707480609273,
-          "path": "cs/db/DB.canvas"
+          "path": "src/cs/db/DB.canvas"
         },
         {
           "type": "file",
           "ctime": 1707491484585,
-          "path": "운영체제.canvas"
+          "path": "canvas/운영체제.canvas"
         }
       ],
       "title": "백엔드 면접 질문"

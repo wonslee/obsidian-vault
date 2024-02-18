@@ -12,14 +12,51 @@
             "id": "97cebd37df4d68d9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "OOP.canvas",
-                "viewState": {
-                  "x": -1175.4823175548736,
-                  "y": 673.8020490841197,
-                  "zoom": -3
-                }
+                "file": "src/spring/DI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b83bc715b48cb44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/spring/JDBC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1709ac86bc378b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/spring/스프링 설정 정보.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49f08445c8d46c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/design-pattern/프록시 패턴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -29,7 +66,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "OOP.canvas",
+                "file": "canvas/OOP.canvas",
                 "viewState": {
                   "x": -530.3050325426443,
                   "y": 374.52950747711617,
@@ -44,14 +81,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "다중 프로그래밍 시스템.md",
+                "file": "src/cs/os/다중 프로그래밍 시스템.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a8f1a3bc0cd850ea",
@@ -95,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cs/paradigm  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,7 +152,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -134,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP.canvas",
+                "file": "src/design-pattern/프록시 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP.canvas",
+                "file": "src/design-pattern/프록시 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP.canvas"
+                "file": "src/design-pattern/프록시 패턴.md"
               }
             }
           }
@@ -196,53 +235,57 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97cebd37df4d68d9",
+  "active": "a464f791ce6b7afc",
   "lastOpenFiles": [
-    "OOP.canvas",
-    "Spring 마인드맵.canvas",
-    "인성 질문.canvas",
-    "OOP.md",
-    "Untitled.md",
-    "OCP.md",
-    "LSP.md",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "추상화.md",
-    "상속.md",
-    "시스템 콜.md",
-    "운영체제.canvas",
-    "2024-02-18.md",
-    "cs/db/DB.canvas",
-    "인증 인가.canvas",
-    "디자인 패턴 마인드맵.canvas",
-    "폴링.md",
-    "객체 지향 이전의 패러다임들.md",
-    "oop 아직 정리 안 된 개념들.md",
-    "변경 보호 패턴.md",
-    "하향식 접근법.md",
-    "PSA.md",
-    "캡슐화.md",
-    "SOLID.md",
-    "다중 프로그래밍 시스템.md",
-    "복쟉복쟉 - 비정규화를 통한 쿼리 최적화.md",
-    "DRY.md",
-    "RDBMS.md",
-    "시분할 시스템.md",
-    "포트폴리오.canvas",
-    "Spring.md",
-    "통합 테스트.md",
-    "cs/db/DB.md",
-    "수위키 - 시간표.md",
-    "programming-language",
-    "cs/paradigm",
-    "cs/db",
-    "cs/os",
-    "cs",
-    "polymorphism.png",
-    "backend",
-    "Backend",
-    "Pasted image 20240117221103.png",
-    "Pasted image 20240115161416.png",
-    "Pasted image 20240113004817.png"
+    "src/cs/paradigm/oop/합성.md",
+    "src/cs/paradigm/하향식 접근법.md",
+    "src/cs/프레임워크.md",
+    "src/cs/paradigm/oop/팩토리.md",
+    "src/cs/network",
+    "src/cs/paradigm/oop/팩토리 메소드 패턴.md",
+    "src/cs/paradigm/oop/템플릿 메서드 패턴.md",
+    "src/test/테스트.md",
+    "src/test/테스트 독립성.md",
+    "src/test",
+    "src/cs/paradigm/oop/클라이언트 서버 모델.md",
+    "src/programming-language/java/캐스팅.md",
+    "src/컴포넌트.md",
+    "src/cs/paradigm/oop/추상 클래스.md",
+    "src/cs/paradigm/oop/책임.md",
+    "src/cs/software-philosophy/참조 투명성.md",
+    "src/cs/paradigm/oop/정보 은닉.md",
+    "src/cs/paradigm/oop/인터페이스.md",
+    "src/cs/paradigm/oop/의존 관계.md",
+    "src/cs/software-philosophy/유지보수성.md",
+    "src/cs/paradigm/oop/역할.md",
+    "src/spring/싱글톤.md",
+    "src/cs/os/시분할 시스템.md",
+    "src/spring/스프링 설정 정보.md",
+    "src/problem-solving/수위키 - 강의 데이터 적재.md",
+    "src/programming-language/모듈.md",
+    "src/problem-solving",
+    "src/cs/software-philosophy/단순성.md",
+    "src/구현.md",
+    "templates",
+    "src/design-pattern",
+    "src/devops",
+    "images",
+    "canvas",
+    "src/cs/software-philosophy",
+    "src/cs/paradigm/oop",
+    "canvas/OOP.canvas",
+    "canvas/Spring 마인드맵.canvas",
+    "canvas/인성 질문.canvas",
+    "src/Untitled 3.canvas",
+    "src/Untitled 2.canvas",
+    "canvas/운영체제.canvas",
+    "src/cs/db/DB.canvas",
+    "canvas/인증 인가.canvas",
+    "canvas/디자인 패턴 마인드맵.canvas",
+    "canvas/포트폴리오.canvas",
+    "images/polymorphism.png",
+    "images/Pasted image 20240117221103.png",
+    "images/Pasted image 20240115161416.png",
+    "images/Pasted image 20240113004817.png"
   ]
 }
