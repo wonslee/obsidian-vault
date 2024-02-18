@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2d0549f676633f98","type":"text","text":"포트폴리오","x":-226,"y":-717,"width":250,"height":60},
+		{"id":"389888253e308e69","type":"text","text":"문제 해결 경험","x":385,"y":138,"width":250,"height":60},
+		{"id":"95a56ea5b3529186","type":"text","text":"수원대학교 포털 시스템은 강의 데이터를 외부에 제공하지 않습니다.  \n\n이를 크롤링하여 적재하고, 데이터를 자체 제공하도록 하였습니다.  \n\n여기에 더해서 강의 평가 서비스를 제공하는데요, 학생들이 교내 강의에 대한 선배들의 생각을 미리 알 수 있도록 하여 수강 신청 기간에 학생들이 더 자신에게 유익한 강의를 빠르게 찾을 수 있도록 하고 있습니다. \n","x":376,"y":263,"width":250,"height":455},
+		{"id":"9a370e74e9da6a12","type":"text","text":"복쟉복쟉","x":-385,"y":-28,"width":250,"height":60},
+		{"id":"216d5579d6bfcbef","type":"text","text":"어떤 역할을 맡으셨나요?","x":-101,"y":185,"width":250,"height":60},
+		{"id":"9bbdbf894a48e13c","type":"text","text":"수위키","x":-91,"y":-28,"width":250,"height":60},
+		{"id":"fad431b1884ecb4d","type":"text","text":"어떤 역할을 맡으셨나요?","x":-635,"y":168,"width":250,"height":60},
+		{"id":"50a868f1c034d777","type":"text","text":"문제 해결 경험","x":-427,"y":178,"width":250,"height":60},
+		{"id":"64747cad743b9d01","x":840,"y":-28,"width":250,"height":60,"type":"text","text":"부끄북극"}
+	],
+	"edges":[
+		{"id":"2a65bc0b3654e600","fromNode":"2d0549f676633f98","fromSide":"bottom","toNode":"9bbdbf894a48e13c","toSide":"top"},
+		{"id":"5873b37369f91766","fromNode":"2d0549f676633f98","fromSide":"bottom","toNode":"9a370e74e9da6a12","toSide":"top"},
+		{"id":"ea86be8ddf8f31c4","fromNode":"389888253e308e69","fromSide":"bottom","toNode":"95a56ea5b3529186","toSide":"top"},
+		{"id":"9703e980a201dd11","fromNode":"9bbdbf894a48e13c","fromSide":"bottom","toNode":"389888253e308e69","toSide":"top"},
+		{"id":"1e32673e8ec79bdf","fromNode":"9a370e74e9da6a12","fromSide":"bottom","toNode":"fad431b1884ecb4d","toSide":"top"},
+		{"id":"eb3b99ab529eb231","fromNode":"9a370e74e9da6a12","fromSide":"bottom","toNode":"50a868f1c034d777","toSide":"top"},
+		{"id":"35dadf26453e32f7","fromNode":"9bbdbf894a48e13c","fromSide":"bottom","toNode":"216d5579d6bfcbef","toSide":"top"},
+		{"id":"cdcd1a4574109681","fromNode":"2d0549f676633f98","fromSide":"bottom","toNode":"64747cad743b9d01","toSide":"top"}
+	]
+}

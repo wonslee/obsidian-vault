@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"3e7023378407b177","type":"text","text":"DB","x":-169,"y":-207,"width":250,"height":60},
+		{"id":"b701f09d9b6790c8","type":"text","text":"NoSQL","x":80,"y":-18,"width":250,"height":60},
+		{"id":"cd01607e9e21e26a","type":"text","text":"Redis","x":86,"y":136,"width":250,"height":60},
+		{"id":"6dd736efd01c5fa3","type":"text","text":"RDBMS\n[[RDBMS]]","x":-380,"y":-20,"width":250,"height":60},
+		{"id":"efe7d53282f17ee2","type":"text","text":"DB 설계 (ERD 모델링)","x":-1049,"y":140,"width":250,"height":60},
+		{"id":"2f8d00975634fe1a","type":"text","text":"정규화","x":-1580,"y":360,"width":250,"height":60},
+		{"id":"1478df5b7a9f1c20","type":"text","text":"비정규화","x":-1265,"y":385,"width":250,"height":60},
+		{"id":"f37dbe4216693bc5","type":"text","text":"쿼리","x":-756,"y":322,"width":250,"height":60},
+		{"id":"c6519574ac85c9a6","type":"text","text":"인덱싱","x":-399,"y":324,"width":250,"height":60},
+		{"id":"f9a500c2639c7be3","type":"text","text":"트랜잭션","x":-125,"y":315,"width":250,"height":60},
+		{"id":"a4947145e609fd11","x":-752,"y":473,"width":250,"height":60,"type":"text","text":"텐큐브 면접 질문.\nsubquery vs join"}
+	],
+	"edges":[
+		{"id":"894ba8949b63b499","fromNode":"3e7023378407b177","fromSide":"bottom","toNode":"6dd736efd01c5fa3","toSide":"top"},
+		{"id":"87ef9b5df47cf204","fromNode":"3e7023378407b177","fromSide":"bottom","toNode":"b701f09d9b6790c8","toSide":"top"},
+		{"id":"3a3199ca7140db4b","fromNode":"b701f09d9b6790c8","fromSide":"bottom","toNode":"cd01607e9e21e26a","toSide":"top"},
+		{"id":"8ed66f60146211dd","fromNode":"6dd736efd01c5fa3","fromSide":"bottom","toNode":"efe7d53282f17ee2","toSide":"top"},
+		{"id":"268d1d5540caef60","fromNode":"efe7d53282f17ee2","fromSide":"bottom","toNode":"2f8d00975634fe1a","toSide":"top"},
+		{"id":"d58c484f12deb5d4","fromNode":"efe7d53282f17ee2","fromSide":"bottom","toNode":"1478df5b7a9f1c20","toSide":"top"},
+		{"id":"0a131488b129ff4d","fromNode":"6dd736efd01c5fa3","fromSide":"bottom","toNode":"f37dbe4216693bc5","toSide":"top"},
+		{"id":"226cab505c407825","fromNode":"6dd736efd01c5fa3","fromSide":"bottom","toNode":"c6519574ac85c9a6","toSide":"top"},
+		{"id":"378a0659345af283","fromNode":"6dd736efd01c5fa3","fromSide":"bottom","toNode":"f9a500c2639c7be3","toSide":"top"},
+		{"id":"b486af84b341a11a","fromNode":"f37dbe4216693bc5","fromSide":"bottom","toNode":"a4947145e609fd11","toSide":"top"}
+	]
+}

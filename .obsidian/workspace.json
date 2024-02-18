@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "921aa04fb0bda423",
+    "type": "split",
+    "children": [
+      {
+        "id": "f811470000069493",
+        "type": "tabs",
+        "dimension": 45.03448275862069,
+        "children": [
+          {
+            "id": "97cebd37df4d68d9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "OOP.canvas",
+                "viewState": {
+                  "x": -1175.4823175548736,
+                  "y": 673.8020490841197,
+                  "zoom": -3
+                }
+              }
+            }
+          },
+          {
+            "id": "7cde9c2f814dc5e8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "OOP.canvas",
+                "viewState": {
+                  "x": -530.3050325426443,
+                  "y": 374.52950747711617,
+                  "zoom": -0.7663885009514773
+                }
+              }
+            }
+          },
+          {
+            "id": "710a5570f5ad7ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "다중 프로그래밍 시스템.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8f1a3bc0cd850ea",
+        "type": "tabs",
+        "dimension": 54.96551724137932,
+        "children": [
+          {
+            "id": "a5b04d1e9c85a3eb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca5ae281f9f65bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c4d18665694a2f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4a8accdc9eeda8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8a700eb1d5c89c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cs/paradigm  ",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a464f791ce6b7afc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "2e3a149919173b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c9d1f654dd1142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a3846ac9521f2f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OOP.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d1f07b963a121e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OOP.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6e8c33cde691821",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "829b9096e6ed6a4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OOP.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "97cebd37df4d68d9",
+  "lastOpenFiles": [
+    "OOP.canvas",
+    "Spring 마인드맵.canvas",
+    "인성 질문.canvas",
+    "OOP.md",
+    "Untitled.md",
+    "OCP.md",
+    "LSP.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "추상화.md",
+    "상속.md",
+    "시스템 콜.md",
+    "운영체제.canvas",
+    "2024-02-18.md",
+    "cs/db/DB.canvas",
+    "인증 인가.canvas",
+    "디자인 패턴 마인드맵.canvas",
+    "폴링.md",
+    "객체 지향 이전의 패러다임들.md",
+    "oop 아직 정리 안 된 개념들.md",
+    "변경 보호 패턴.md",
+    "하향식 접근법.md",
+    "PSA.md",
+    "캡슐화.md",
+    "SOLID.md",
+    "다중 프로그래밍 시스템.md",
+    "복쟉복쟉 - 비정규화를 통한 쿼리 최적화.md",
+    "DRY.md",
+    "RDBMS.md",
+    "시분할 시스템.md",
+    "포트폴리오.canvas",
+    "Spring.md",
+    "통합 테스트.md",
+    "cs/db/DB.md",
+    "수위키 - 시간표.md",
+    "programming-language",
+    "cs/paradigm",
+    "cs/db",
+    "cs/os",
+    "cs",
+    "polymorphism.png",
+    "backend",
+    "Backend",
+    "Pasted image 20240117221103.png",
+    "Pasted image 20240115161416.png",
+    "Pasted image 20240113004817.png"
+  ]
+}

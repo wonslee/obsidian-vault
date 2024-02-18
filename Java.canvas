@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"6f25b8176d1f9b17","type":"text","text":"Java","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"7b28b31047fdd329","type":"text","text":"Java 11","x":-1400,"y":237,"width":250,"height":60},
+		{"id":"ecad2034ad9cf514","type":"text","text":"Java의 장점과 단점","x":203,"y":215,"width":250,"height":60},
+		{"id":"95652555a3479120","type":"text","text":"JVM","x":524,"y":214,"width":250,"height":60},
+		{"id":"724c515ea3598d71","type":"text","text":"","x":-862,"y":415,"width":250,"height":60},
+		{"id":"91723547503a3553","type":"text","text":"Java 8","x":-1791,"y":235,"width":250,"height":60},
+		{"id":"5d2d8816e30cdc03","type":"text","text":"스트림\n[[Java#What#Stream API]]","x":-1955,"y":414,"width":250,"height":126},
+		{"id":"715f342d8253990f","type":"text","text":"Java 17","x":-800,"y":235,"width":250,"height":60},
+		{"id":"f3e34be9eea2d960","type":"text","text":"예외 처리\n[[Java#How#예외 처리]]","x":-317,"y":780,"width":250,"height":90},
+		{"id":"fbbc70ff2b119a73","type":"text","text":"Checked Exception\n[[Java#How#예외 처리#Checked Exception]]","x":-250,"y":949,"width":250,"height":101},
+		{"id":"dc743a7776a2e919","type":"text","text":"Unchecked Exception\n[[Java#How#예외 처리#Unchecked Exception]]","x":0,"y":959,"width":250,"height":91},
+		{"id":"ba65ebf283ae6f74","type":"text","text":"Error\n[[Java#How#예외 처리#Error]]","x":-521,"y":935,"width":250,"height":115},
+		{"id":"4e1ac29f0f396c78","x":112,"y":375,"width":250,"height":105,"type":"text","text":"Java vs C/C++"}
+	],
+	"edges":[
+		{"id":"a2de0bb37b42b595","fromNode":"6f25b8176d1f9b17","fromSide":"bottom","toNode":"715f342d8253990f","toSide":"top"},
+		{"id":"06ba9295a8e2fe7a","fromNode":"6f25b8176d1f9b17","fromSide":"bottom","toNode":"7b28b31047fdd329","toSide":"top"},
+		{"id":"b33d041a93ed7e0a","fromNode":"6f25b8176d1f9b17","fromSide":"bottom","toNode":"f3e34be9eea2d960","toSide":"top"},
+		{"id":"ef88c91b99216c30","fromNode":"f3e34be9eea2d960","fromSide":"bottom","toNode":"ba65ebf283ae6f74","toSide":"top"},
+		{"id":"45f4e60c0a2b5c4b","fromNode":"f3e34be9eea2d960","fromSide":"bottom","toNode":"fbbc70ff2b119a73","toSide":"top"},
+		{"id":"73a54590cb198f5f","fromNode":"f3e34be9eea2d960","fromSide":"bottom","toNode":"dc743a7776a2e919","toSide":"top"},
+		{"id":"26dd0ad14940d05a","fromNode":"6f25b8176d1f9b17","fromSide":"bottom","toNode":"ecad2034ad9cf514","toSide":"top"},
+		{"id":"82001a06b0bf616e","fromNode":"6f25b8176d1f9b17","fromSide":"bottom","toNode":"95652555a3479120","toSide":"top"},
+		{"id":"c4188db24ecce373","fromNode":"715f342d8253990f","fromSide":"bottom","toNode":"724c515ea3598d71","toSide":"top"},
+		{"id":"e86bbd7153a66353","fromNode":"6f25b8176d1f9b17","fromSide":"bottom","toNode":"91723547503a3553","toSide":"top"},
+		{"id":"a0b540882840dc1c","fromNode":"91723547503a3553","fromSide":"bottom","toNode":"5d2d8816e30cdc03","toSide":"top"},
+		{"id":"7d42c7a534b5191d","fromNode":"ecad2034ad9cf514","fromSide":"bottom","toNode":"4e1ac29f0f396c78","toSide":"top"}
+	]
+}

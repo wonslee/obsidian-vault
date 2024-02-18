@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#cs/design-pattern  ",
+      "color": {
+        "a": 1,
+        "rgb": 14531039
+      }
+    },
+    {
+      "query": "tag:#cs/paradigm      ",
+      "color": {
+        "a": 1,
+        "rgb": 14145672
+      }
+    },
+    {
+      "query": "tag:#cs/programming-model  ",
+      "color": {
+        "a": 1,
+        "rgb": 14014325
+      }
+    },
+    {
+      "query": "tag:#problem-solving  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.479209979209979,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7298081215023049,
+  "close": true
+}
